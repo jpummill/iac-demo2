@@ -1,4 +1,5 @@
 # This is a comment
+# This is a second comment
 provider "aws" {
     region = "us-east-1"
 }
